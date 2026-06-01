@@ -1,6 +1,5 @@
 from requests import get as rget
 import time
-import os
 
 proxySwap = False
 
